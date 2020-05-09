@@ -1,4 +1,4 @@
-# Battle Simulator
+# Description:
 Game made during my first CS class which uses "the_maze"'s search algorithm to find enemy units, attack them and win the game.
 
 # How to set it up:
